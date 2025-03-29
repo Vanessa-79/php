@@ -4,7 +4,7 @@
 //DSN- Data Source Name(telling the server what database we are using, and where it is located, and what type of host)
 
 $dsn = "mysql:host=localhost;dbname=myfirstdatabase";
-$dbusername = "root";
+$dbusername = "vanessa";
 $dbpassword = "";
 
 
